@@ -8,8 +8,13 @@ const Profile = () => {
           <div className="max-w-4xl mx-auto text-center">
             <span className="text-6xl md:text-8xl mb-6 block animate-float">👨‍💻</span>
             <h1 className="text-4xl md:text-5xl font-display font-bold mb-4">About the Creator</h1>
-            <p className="text-lg text-muted-foreground">Meet Vijay Kardak - DevOps Enthusiast & Learner</p>
-          </div>
+            <p className="text-lg text-muted-foreground"><h1>Meet the VVO Tech Team</h1>
+
+              <p>
+                 This project was collaboratively developed by Vijay Kardak,
+                 Vishal jadhav, and Om tambe as part of our academic project.
+                 </p>
+            </div>
         </div>
       </section>
 
