@@ -33,7 +33,7 @@ const Profile = () => {
               </div>
 
               <h2 className="text-2xl font-display font-bold mb-2">
-                Vijay Kardak
+                The VVO Team
               </h2>
 
               <p className="text-primary font-medium mb-4">
